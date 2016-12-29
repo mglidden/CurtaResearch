@@ -4,3 +4,5 @@ Curta 2/Service Manual.pdf: http://www.museummura.li/content.aspx?nid=5051&group
 Curta 2/Engineering Drawings: http://www.museummura.li/content.aspx?nid=5051&groupnr=5051
 ReCurta: https://github.com/daeken/ReCurta
 Simulation: http://members.chello.nl/o.veenstra3/vrml/curta_info/curta_demo.html
+Curta teardown pictures: https://www.dropbox.com/sc/vkbm0i94hue7qmj/AABaKae-9Tn2MZirBxo4h8Rra (from ReCurta)
+Wiki with some models: http://curtawiki.com/parts (from ReCurta)
