@@ -1,0 +1,35 @@
+Curta 1/Service Manual.pdf: http://www.museummura.li/content.aspx?nid=5051&groupnr=5051
+Curta 1/Engineering Drawings: http://www.museummura.li/content.aspx?nid=5051&groupnr=5051
+Curta 2/Service Manual.pdf: http://www.museummura.li/content.aspx?nid=5051&groupnr=5051
+Curta 2/Engineering Drawings: http://www.museummura.li/content.aspx?nid=5051&groupnr=5051
+ReCurta: https://github.com/daeken/ReCurta
+Simulation: http://members.chello.nl/o.veenstra3/vrml/curta_info/curta_demo.html
+
+
+
+
+jan:
+10th: 5pm
+12th: 7am
+17th: 6pm
+19th: 7am
+24th: 6pm
+26th: 7am
+31st: 6pm
+
+feb:
+2nd: 7am
+6th: 5pm
+8th: 5pm
+9th: 7am
+13th: 5pm
+15th: 5pm
+16th: 7am
+20th: 5pm
+22nd: 5pm
+23rd: 7am
+27th: 5pm
+
+march:
+1st: 5pm
+2nd: 7am
