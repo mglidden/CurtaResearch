@@ -1,0 +1,11 @@
+The following part numbers are present in ReCurta/app/curta_jpegs/, but not ReCurta/Solidworks Drawings/
+10016
+10027
+10031
+10042
+10094
+10095
+10135
+10160 (alternate drawing)
+10161 (unused?)
+2037 (might be type II)
